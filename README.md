@@ -8,6 +8,13 @@ This colour theme is heavily inspired by the text editor theme from [MacRabbit's
 
 ![Preview of CSSEdit Tribute Colour Theme](http://f.cl.ly/items/0p3R313p1X0y0D1C3s1Y/Screen%20Shot%202013-05-20%20at%209.45.04%20AM.png)
 
+### Installation
+
+```shell
+mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+```
+
 ### License
 Everything here is licensed under the MIT license. Have at it, but let me know if you do anything cool!
 
